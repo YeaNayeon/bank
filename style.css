@@ -967,6 +967,7 @@
 
   .iphone-pro-max {
     display: none;
+    position: relative;
   }
 
   
@@ -978,6 +979,7 @@
     }
     .iphone-pro-max {
       display: block;
+      position: relative;
     }
     
       
